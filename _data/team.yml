@@ -1,10 +1,152 @@
+# Principal Investigator # 
 - name: "Bolei Zhou"
   role: "Principal Investigator"
   image: "../assets/team/bolei.jpg"
   link: "https://boleizhou.github.io/"
   affiliation: "UCLA"
+
+# Postdoctoral Scholars # 
+- name: "Wayne Wu"
+  role: "Postdoctoral Scholar"
+  image: "../assets/team/waynewu.jpg"
+  link: "https://wywu.github.io/"
+  affiliation: "UCLA"
+
+
+# Graduate Students # 
 - name: "Zhenghao Peng"
   role: "PhD Student"
   image: "../assets/team/zhenghao.jpeg"
   link: "https://pengzhenghao.github.io/"
   affiliation: "UCLA"
+
+- name: "Zhizheng Liu"
+  role: "PhD Student"
+  image: "../assets/team/zhizhengliu.jpg"
+  link: "https://scholar.google.com/citations?user=Asc7j9oAAAAJ&hl=en"
+  affiliation: "UCLA"
+
+- name: "Sicheng Mo"
+  role: "PhD Student"
+  image: "../assets/team/sichengmo.jpg"
+  link: "https://sichengmo.github.io/"
+  affiliation: "UCLA"
+
+- name: "Haoyuan Cai"
+  role: "PhD Student"
+  image: "../assets/team/haoyuancai.jpg"
+  link: "https://haoyuancai.github.io/"
+  affiliation: "UCLA"
+
+- name: "Zhihao Zhao"
+  role: "PhD Student"
+  image: "../assets/team/zhihaozhao.jpeg"
+  link: "https://sethzhao506.github.io/"
+  affiliation: "UCLA"
+
+- name: "Heewon Park"
+  role: "PhD Student"
+  image: "../assets/team/heewonpark.jpeg"
+  link: ""
+  affiliation: "UCLA"
+
+- name: "Honglin He"
+  role: "PhD Student"
+  image: "../assets/team/honglinhe.jpg"
+  link: "https://dhlinv.github.io/"
+  affiliation: "UCLA"
+
+- name: "Ziyanag Xie"
+  role: "PhD Student"
+  image: "../assets/team/ziyangxie.jpg"
+  link: "https://ziyangxie.site/"
+  affiliation: "UCLA"
+
+# Master and Undergraduate Students #
+- name: "Yuxin Liu"
+  role: "Master and Undergraduate Students"
+  image: "../assets/team/yuxinliu.jpeg"
+  link: "https://www.linkedin.com/in/yuxinclaire"
+  affiliation: "UCLA"
+
+- name: "Weizhen Wang"
+  role: "Master and Undergraduate Students"
+  image: "../assets/team/weizhenwang.jpg"
+  link: "https://scholar.google.com/citations?user=BepoGRMAAAAJ&hl=en"
+  affiliation: "UCLA"
+
+- name: "Matthew Leng"
+  role: "Master and Undergraduate Students"
+  image: "../assets/team/matthewleng.jpg"
+  link: "https://www.linkedin.com/in/matthew-leng-1820a2346"
+  affiliation: "UCLA"
+
+- name: "Joe Lin"
+  role: "Master and Undergraduate Students"
+  image: "../assets/team/joelin.jpeg"
+  link: "https://www.linkedin.com/in/joe-lin-tech"
+  affiliation: "UCLA"
+
+- name: "Jack He"
+  role: "Master and Undergraduate Students"
+  image: "../assets/team/jackhe.jpg"
+  link: "https://jackhe313.github.io/"
+  affiliation: "UCLA"
+
+# Visiting Students #
+- name: "Yukai Ma"
+  role: "Visiting Student"
+  image: "../assets/team/yukaima.jpeg"
+  link: "https://yukai-ma.github.io/"
+  affiliation: "Zhejiang University"
+
+# Alumni - PhD Students # 
+- name: "Qihang Zhang"
+  role: "Alumni PhD Student"
+  link: "https://zqh0253.github.io/"
+  year: "2019-2025"
+  affiliation: "CUHK"
+  
+# Alumni - Graduated Master's students #
+- name: "Pierce Chong"
+  role: "Alumni Graduated Master's students"
+  link: ""
+  year: "2025"
+  affiliation: "Works in Singapore"
+
+- name: "Chenda Duan"
+  role: "Alumni Graduated Master's students"
+  link: "https://chendaduan.com/"
+  year: "2024"
+  affiliation: "PhD student at UCLA"
+
+- name: "Ben Klingher"
+  role: "Alumni Graduated Master's students"
+  link: ""
+  year: "2024"
+  affiliation: "Works in Tech"
+
+- name: "Lalit Bhagat"
+  role: "Alumni Graduated Master's students"
+  link: "https://lalitbhagat7.github.io/"
+  year: "2023"
+  affiliation: "Applied scientist at Amazon"
+
+- name: "Jiawei Yang"
+  role: "Alumni Graduated Master's students"
+  link: "https://jiawei-yang.github.io/"
+  year: "2023"
+  affiliation: "PhD student at USC"
+
+- name: "Nilay Shah"
+  role: "Alumni Graduated Master's students"
+  link: ""
+  year: "2022"
+  affiliation: "Previous Master student at UCLA"
+
+# Alumni - Undergraduates and student researchers #
+- name: "Jordan Lin"
+  role: "Alumni Undergraduates and student researchers"
+  link: "https://kuanhenglin.github.io/"
+  year: "2022-2024"
+  affiliation: "PhD student at Columbia University"
