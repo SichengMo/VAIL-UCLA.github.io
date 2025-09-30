@@ -694,6 +694,37 @@ footer.sticky-bottom {
 
 // Publications
 
+.publication-tags-container {
+  .tag-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .tag-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--global-theme-color);
+    background-color: transparent;
+    color: var(--global-theme-color);
+    border-radius: 1.5rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+    }
+    
+    &.active {
+      background-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+    }
+  }
+}
+
 .publications {
   margin-top: 2rem;
 
@@ -729,8 +760,6 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-      }
 
       .abbr {
         min-height: 150px;

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Vision and Autonomy Intelligence Lab at UCLA
+title: Vision and Autonomy Intelligence Lab
 description:
 
 # Video carousel auto-advance timing (in milliseconds)
@@ -46,7 +46,7 @@ highlighted_projects:
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #fff;
+    background: var(--global-card-bg-color);
     text-align: center;
     font-size: 18px;
   }
@@ -77,6 +77,7 @@ highlighted_projects:
     margin-top: 0.5rem;
     font-weight: bold;
     font-size: 1.1rem;
+    color: var(--global-text-color);
   }
 </style>
 
